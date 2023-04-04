@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News app</string>
+    <string name="fc">Fragment container</string>
+    <string name="textV_mH">main headline is here</string>
+    <string name="textV_mc">main content</string>
+    <string name="textV_pb">by suraj</string>
+    <string name="textV_pat">published at</string>
+</resources>
