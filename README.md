@@ -1,5 +1,5 @@
 # Brief introduction of the app
-This is a internet based news application,here you can read daily different types of news in detail,it shows time also of news. here i used retofit to fetch the data from news api and show it on my activity.
+This is a internet based news application,here you can read daily different types of news in detail,it shows time also of news. here i used retrofit to fetch the data from news api and show it on my activity.
 
 # Splash screen
 ![Splash screen](https://user-images.githubusercontent.com/125882599/229979983-623deead-f51d-4e20-8a5c-408515a8a05b.jpeg)
